@@ -1,0 +1,24 @@
+.app{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+}
+.control{
+    width: 40vw;
+}
+.output{
+    width: 40vw;
+    height: 50vh;
+    background-color: crimson;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.box p{
+   
+    border: 2px solid black;
+padding: 10px;
+background-color: #5e5e5e;
+}
